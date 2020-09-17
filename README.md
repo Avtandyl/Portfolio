@@ -4,5 +4,5 @@ Repository containing portfolio of data science projects completed for academic,
 
 Tools
 
-Python: NumPy, Pandas, Seaborn, Matplotlib
-Machine Learning: scikit-learn, imblearn
+- **Python**:  NumPy, Pandas, Seaborn, Matplotlib
+- **Machine Learning**: scikit-learn, imblearn
