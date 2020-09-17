@@ -11,4 +11,6 @@ Tools
 
 
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
+
     - [LinkedIn](https://www.linkedin.com/in/avtandilrudenko/)
+    - [Djinni](https://djinni.co/q/d305750e30/)
