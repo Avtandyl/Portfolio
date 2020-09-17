@@ -6,3 +6,9 @@ Tools
 
 - **Python**:  NumPy, Pandas, Seaborn, Matplotlib
 - **Machine Learning**: scikit-learn, imblearn
+
+
+
+
+If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
+    - [LinkedIn](https://www.linkedin.com/in//)
