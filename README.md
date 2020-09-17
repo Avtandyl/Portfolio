@@ -7,6 +7,10 @@ Tools
 - **Python**:  NumPy, Pandas, Seaborn, Matplotlib
 - **Machine Learning**: scikit-learn, imblearn
 
+## Contents
+- ## Machine Learning
+
+ - [LogisticRegression - Predicting Credit Card Approvals](https://github.com/melvfnz/data_science_portfolio/blob/master/digit_recognizer.ipynb): machine learning model to predict if a credit card application will get approved.
 
 
 
