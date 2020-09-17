@@ -10,7 +10,7 @@ Tools
 ## Contents
 - ## Machine Learning
 
- - [LogisticRegression - Predicting Credit Card Approvals](https://github.com/melvfnz/data_science_portfolio/blob/master/digit_recognizer.ipynb): machine learning model to predict if a credit card application will get approved.
+ - [LogisticRegression - Predicting Credit Card Approvals](https://github.com/Avtandyl/Portfolio/blob/master/Predicting%20Credit%20Card%20Approvals.ipynb): machine learning model to predict if a credit card application will get approved.
 
 
 
