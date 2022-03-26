@@ -14,6 +14,11 @@ Tools
 
 - [RandomForest - AutoInland Vehicle Insurance Claim Challenge](https://github.com/Avtandyl/Portfolio/blob/master/AutoInland%20Vehicle%20Insurance%20Claim%20Challenge.ipynb): classification machine learning model that determines if a customer will submit a vehicle insurance claim in the next three months.Competetion from Zindi Africa https://zindi.africa/competitions/autoinland-vehicle-insurance-claim-challenge
 
+
+- ## Data Analysis and Visualisation
+ - [Exploring the Bitcoin Cryptocurrency Market](https://github.com/Avtandyl/Portfolio/blob/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market.ipynb): Analysis of growth and impact of Bitcoin and other cryptocurrencies through exploring the market capitalization of different cryptocurrencies.
+
+
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
     - [LinkedIn](https://www.linkedin.com/in/avtandilrudenko/)
     - [Djinni](https://djinni.co/q/d305750e30/)
