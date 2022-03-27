@@ -20,6 +20,8 @@ Tools
 
  - [The Android App Market on Google Play](https://github.com/Avtandyl/Portfolio/blob/master/The%20Android%20App%20Market%20on%20Google%20Play.ipynb): Comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories.
 
+ - [Risk and Returns: The Sharpe Ratio](https://github.com/Avtandyl/Portfolio/blob/master/Risk%20and%20Returns%20The%20Sharpe%20Ratio.ipynb): Anakysis of applying the Sharpe ratio to real financial data using pandas.
+
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
     - [LinkedIn](https://www.linkedin.com/in/avtandilrudenko/)
     - [Djinni](https://djinni.co/q/d305750e30/)
